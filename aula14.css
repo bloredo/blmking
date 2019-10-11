@@ -1,0 +1,30 @@
+header{
+	color: white;
+	text-align: center;
+}
+
+body{
+	background: #1E90FF;
+	font: normal 15pt Arial;
+}
+
+section{
+	background: DeepSkyBlue;
+	text-align: center;
+	width: 500px;
+	height: 50%;
+	padding: 15px;
+	margin: auto;
+}
+
+div{
+	text-align: left;
+	padding: 8px;
+}	
+
+
+footer{
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
